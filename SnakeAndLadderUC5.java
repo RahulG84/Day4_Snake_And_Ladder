@@ -4,7 +4,7 @@ import java.util.Random;
  * #Developer : Rahul Girgal
  * Ensure the player gets to exact winning position 100.
  *  Note in case the player position go above 100, the player stays in the
- *  same previous position till the player gets the exact number
+ *  same previous position till the pl gets the exact number
  */
 public class SnakeAndLadderUC5 {
         // Constant
